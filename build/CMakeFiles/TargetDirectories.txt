@@ -1,3 +1,0 @@
-/home/nikzapp/Documents/mcpi/moddev/colored-chat/build/CMakeFiles/colored-chat.dir
-/home/nikzapp/Documents/mcpi/moddev/colored-chat/build/CMakeFiles/edit_cache.dir
-/home/nikzapp/Documents/mcpi/moddev/colored-chat/build/CMakeFiles/rebuild_cache.dir
